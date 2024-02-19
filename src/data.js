@@ -23,12 +23,22 @@ export const projects = [
       image: "./project-3.gif",
       link: "https://jsbootcamp.com",
     },
+]
+export const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Node.js",
+  // Agrega más habilidades según sea necesario
+];
+  export const testimonials = [
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
-    },
+      name: "Juan",
+      company: "Pi Verduleria",
+      image: "./project-1.gif",
+      quote: "No se que es",
+    }
+    
   ];
+
